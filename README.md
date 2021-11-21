@@ -1,7 +1,7 @@
 # Production Worksheet 
 
 ### 📝 Description 
-This is a small utility which is used to print Production Worksheets and Barcodes.  
+This is a small utility to print Production Worksheets and Barcodes.
 
 -----
 
