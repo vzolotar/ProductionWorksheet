@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+*.pbd linguist-detectable=true
+*.pbl linguist-detectable=true
+*.pbd linguist-language=powerbuilder
+*.pbl linguist-language=powerbuilder
